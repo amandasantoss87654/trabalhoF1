@@ -1,0 +1,50 @@
+body{
+    background-color:darkblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+.navebar{
+    background-color:rgb(50, 57, 155);
+        color: #fff;
+        padding: 20px;
+        position: relative;
+        width: 100%;
+        top: 0;
+        left: 0;
+        z-index: 1000;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    
+    }
+    .titulo{ background-color: rgb(253, 249, 249);
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 50px;
+    left: 0;
+}
+.tituloum{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.letrascentralizadas{
+    text-align: center;}
+    .tabelas{
+        background-color: rgba(118, 49, 187, 0.712);
+        margin: 0 auto;}
+        
+        .ladoalado{
+            display: flex;
+        }
+        .relacaodeequipes{
+            width: 50px;    
+        }
+        .GP{
+            width: 30%;
+            height: 60%;
+            margin: 0 auto;
+        }
+td{
+    color:#c7c6d3;
+}
+    
